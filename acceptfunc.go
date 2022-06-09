@@ -1,5 +1,5 @@
 package dns
-
+// 2 commit on github
 // 1 commit
 // MsgAcceptFunc is used early in the server code to accept or reject a message with RcodeFormatError.
 // It returns a MsgAcceptAction to indicate what should happen with the message.
